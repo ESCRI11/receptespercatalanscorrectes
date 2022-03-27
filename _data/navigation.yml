@@ -1,0 +1,6 @@
+- name: Inici
+  link: /
+- name: Receptes
+  link: /recipes/
+- name: Informació
+  link: /about/
